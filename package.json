@@ -1,6 +1,6 @@
 {
   "name": "swively",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A javascript class that adds a swivel hover effect to anything.",
   "main": "dist/Swively.js",
   "scripts": {
